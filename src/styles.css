@@ -14,6 +14,8 @@
 .category-tile>svg{margin-bottom:2px}
 .editorial-art{background-image:url('/images/editorial-chair.png');background-size:cover;background-position:center;}
 .editorial-art:before{display:none}
+.photo-art{filter:saturate(1.18) contrast(1.04)}
+.category-photo{filter:saturate(1.18) contrast(1.04);opacity:.94}
 .hero{display:block;min-height:520px}
 .hero-photo{display:none}
 .hero-copy{min-height:520px;max-width:720px;padding-left:12vw}
